@@ -1,1 +1,1 @@
-# Repositório para desenvolimento de estudo dirigido - Programação
+# Repositório para desenvolvimento de estudo dirigido - Programação
