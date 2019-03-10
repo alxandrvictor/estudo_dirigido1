@@ -16,5 +16,5 @@
 
 	$totalseconds = ((($dias/24/60/60)+$horas/60/60)+$minutos/60)+$segundos;
 
-	print"$dias dias, $horas horas, $minutos minutos, segundos, são $totalseconds segundos";
-	print"\n\n"; 
+	print"$dias dias, $horas horas, $minutos minutos, segundos, são $totalseconds segundos"; //Término
+	print"\n\n"
