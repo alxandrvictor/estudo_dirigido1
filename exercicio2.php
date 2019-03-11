@@ -1,3 +1,4 @@
+<?php
 	print"Quantidade de dias: ";
 	$dias = (int)fgets(STDIN);          //Insira os dias
 	print"\n\n";
